@@ -32,5 +32,5 @@ I’m currently on a journey to grow as a software developer, diving deep into w
 
 ## 📫 How to Reach Me
 
-- [LinkedIn](https://www.linkedin.com)
+- [LinkedIn](https://www.linkedin.com/in/nurlan-atamuratov/)
 - [Telegram](https://t.me/NurPacqiao)
