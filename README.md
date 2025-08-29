@@ -34,3 +34,4 @@ I’m currently on a journey to grow as a software developer, diving deep into w
 
 - [LinkedIn](https://www.linkedin.com/in/nurlan-atamuratov/)
 - [Telegram](https://t.me/NurPacqiao)
+- [Email](mailto:nurpacqiao@gmail.com)
