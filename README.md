@@ -1,6 +1,6 @@
 # Hi, I'm Nurlan 👋
 
-I’m currently on a journey to grow as a software developer, diving deep into web development, game development, and AI. Right now, I’m learning The Odin Project and CS50’s AI course from Harvard, while also pursuing a degree in Computer Science here in Poland.
+I’m currently on a journey to grow as a software developer, diving deep into web development and AI engineering. Right now, I’m learning The Odin Project and CS50’s AI course from Harvard, while also pursuing a degree in Computer Science here in Poland.
 
 ## 💻 Technologies I Know
 
@@ -24,7 +24,7 @@ I’m currently on a journey to grow as a software developer, diving deep into w
 - The Odin Project (Full Stack)
 - CS50 AI (Harvard)
 - Advanced React and Node.js
-- Game Development & AI Integration
+- AI Integration
 
 ## 📫 How to Reach Me
 
