@@ -23,7 +23,7 @@ I’m currently on a journey to grow as a software developer, diving deep into w
 
 - The Odin Project (Full Stack)
 - CS50 AI (Harvard)
-- Advanced React and Node.js
+- Advanced Node.js and Angular
 - AI Integration
 
 ## 📫 How to Reach Me
