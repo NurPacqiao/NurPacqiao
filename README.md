@@ -22,9 +22,8 @@ I’m currently on a journey to grow as a software developer, diving deep into w
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 - The Odin Project (Full Stack)
-- CS50 AI (Harvard)
 - Advanced Node.js and Angular
-- AI Integration
+- AI Engineering
 
 ## 📫 How to Reach Me
 
